@@ -1,6 +1,6 @@
 # Dados-Netflix
  
-## Passos Importar as bibliotecas para analise de dados
+## Importar as bibliotecas para analise de dados
 1 -  
  `import pandas as pd `<br>
  `import plotly.express as px` <br>
