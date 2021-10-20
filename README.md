@@ -17,6 +17,9 @@
 ![tabela_pt](https://user-images.githubusercontent.com/92749835/138021915-d5675a35-36f7-4877-9cf7-a9b19c8bf277.png)
 <br><br>
 
-4 -  tratando dados VAZIOS da tabela `tabela.dropna(how="any" , axis=0)`<br> deletando linhas vazias
+4 -  Tratando dados VAZIOS da tabela `tabela.dropna(how="any" , axis=0)` deletando linhas vazias
 
-# Principais paises que fazem filme
+# Top 10 referência em filme
+<br><br>
+![principais](https://user-images.githubusercontent.com/92749835/138022258-92d31e3f-3c8c-4223-be3c-bdb0b98bfc38.png)
+<br><br>
